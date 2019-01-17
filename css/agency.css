@@ -14,15 +14,15 @@ p {
 }
 
 a {
-  color: #fed136;
+  color: #527a7a;
 }
 
 a:hover {
-  color: #fec503;
+  color: #334d4d;
 }
 
 .text-primary {
-  color: #fed136 !important;
+  color: #527a7a !important;
 }
 
 h1,
@@ -71,8 +71,8 @@ section h3.section-subheading {
 }
 
 .btn-primary {
-  background-color: #fed136;
-  border-color: #fed136;
+  background-color: #527a7a;
+  border-color: #527a7a;
 }
 
 .btn-primary:active, .btn-primary:focus, .btn-primary:hover {
@@ -87,7 +87,7 @@ section h3.section-subheading {
 }
 
 ::selection {
-  background: #fed136;
+  background: #527a7a;
   text-shadow: none;
 }
 
